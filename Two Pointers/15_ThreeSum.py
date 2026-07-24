@@ -26,5 +26,6 @@ for i in range(0,n-2):
             left += 1
         else:
             right -= 1
+            
         
 return result
